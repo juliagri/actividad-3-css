@@ -1,0 +1,33 @@
+body{
+    /*background-color: darkseagreen;*/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(../imagenes/fondo.jpg);
+    background-size: cover;
+}
+
+h1{
+    background-color: dodgerblue;
+    text-align: center;
+    border: 5px solid red;
+    padding: 15px;
+}
+h2{
+    color: seashell;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+li{
+    background-color: seashell;
+    border: 5px solid orange;
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+}
+a{
+    color: orange;
+}
